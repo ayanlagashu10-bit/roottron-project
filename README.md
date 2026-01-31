@@ -11,8 +11,7 @@ Built on the **Hydra Architecture**, RootTron leverages a multi-agent pipeline t
 
 ---
 
-## 🧬 The Hydra Architecture: How RootTron Thinks
-
+## 🧬 The Hydra Architecture: How RootTron T
 RootTron operates through a specialized multi-stage pipeline designed for absolute accuracy and contextual depth.
 
 ### 1. The Input & Routing Nexus
@@ -112,3 +111,4 @@ RootTron provides specialized interfaces for different cybersecurity theaters, e
 ---
 © 2026 RootTron Intelligence | Secure. Analyze. Evolve.
 
+https://www.instagram.com/reel/DUGteE4Ez6r/?igsh=MXFsbDVnOTlkYzl4NQ==
